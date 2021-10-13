@@ -1,0 +1,56 @@
+
+.icon{
+    margin-top: 10px;
+}
+.icon>img{
+    margin:10px;
+}
+.share{
+    
+    font-size: 1.5rem;
+}
+.tproductImage{
+    margin: 10px;
+    width: 130px;
+    height: 130px;
+    opacity: 0.8;
+    
+    
+}
+.tproductImage:hover{
+    opacity: 0.5;
+}
+.btn-warning{
+    margin:20px
+}
+h1{
+    color:rgba(0,0,0,.9) !important;
+    font-size: 40px !important;
+    
+}
+.form{
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    font-size: 1.1rem;
+    margin-right: 15px;
+}
+.btn-dark{
+    width: 380px;
+    height: 60px;
+    margin-top: 10px;
+}
+.pr{
+    margin-top: 1px;
+    text-align: center;
+    font-size: 2rem;
+    background-color:cornsilk;
+}
+.lead{
+    margin-top: 10px;
+}
+.productImage{
+    width:500px;
+    height: 600px;
+    
+}

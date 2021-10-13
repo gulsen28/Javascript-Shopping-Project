@@ -1,0 +1,20 @@
+.formControl{
+    font-size: 1.1rem;
+    background-color: rgb(252, 247, 243);
+    border-bottom-left-radius: 450px;
+    border-top-right-radius: 450px;
+    
+}
+.formButtons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.bta{
+    background-color: rgb(150, 134, 123);
+    color: blanchedalmond;
+    border:1px solid cornflowerblue;
+    margin: 2px;
+    font-weight: bold;
+}
